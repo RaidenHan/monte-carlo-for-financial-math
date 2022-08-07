@@ -6,11 +6,23 @@
 
 This repository contains all North Carolina State University MA/FIM 548 homework and project for the Spring 2022 semester. Specifically, the assignments are stored in different folders and accompanied by assignment descriptions, codes, and reports.
 
-The code in this project was done independently by me. The code in the Jupyter notebook may diverge from the one attached in the report, which arose from a later bug fix or algorithm optimization. Special thanks to Dr. Kitapbayev for his guidance and to Yi-Siou Feng and Tingyu Lei for collaborating with me on the homework reports.
+The code in this project was done independently by me. The code in the Jupyter notebook may diverge from the one attached in the report, which arose from later algorithm optimization. Special thanks to Dr. Kitapbayev for his guidance and to Yi-Siou Feng and Tingyu Lei for collaborating with me on the homework reports.
 
 Dr. Yerkin Kitapbayev has authorized the release.
 
-A topic overview is given below.
+## Course Description
+
+This course will focus on the computational methods (mostly Monte-Carlo) used for pricing derivatives, risk management, and estimating/calibrating models. We will cover the following topics:
+- Monte-Carlo simulation
+- Random number generation
+- Integration using simulations
+- Discretization of stochastic differential equations
+- Output/Simulation analysis
+- Variance reduction methods
+- American options pricing
+- Various financial applications
+
+An assignment topic overview is given below.
 
 ## Homework 1: Random Number Generation
 
